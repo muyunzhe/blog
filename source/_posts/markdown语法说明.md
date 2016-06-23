@@ -5,6 +5,10 @@ categories: common
 tags: help
 date: 2016-05-28 16:44:21
 ---
+Markdown 的目标是实现「易读易写」。
+
+可读性，无论如何，都是最重要的。一份使用 Markdown 格式撰写的文件应该可以直接以纯文本发布，并且看起来不会像是由许多标签或是格式指令所构成。
+<!--more-->
 # 欢迎光临我的博客
 
 @(标签帮助文档)[牧云者|帮助|Markdown]
@@ -97,7 +101,7 @@ Bob-->Alice: I am good thanks!
 
 
 
-[^demo]: 这是一个示例脚注。请查阅 [MultiMarkdown 文档](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#footnotes) 关于脚注的说明。 
+[^demo]: 这是一个示例脚注。请查阅 [MultiMarkdown 文档](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#footnotes) 关于脚注的说明。
 
 
   [1]: http://muyunzhe.blog.51cto.com/
