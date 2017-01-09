@@ -2,9 +2,11 @@
 title: {{ title }}
 date: {{ date }}
 comments: true
-categories: [common，technology]
-tags: [python,security,help,database]
+toc: true
+mathjax2: true
+categories: [common，technology,Algorithm]
+tags: [python,security,help,database,Data Mining]
 keywords: Hexo, Blog
 ---
 
- <!--more--> 
+ <!--more-->

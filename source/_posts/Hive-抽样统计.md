@@ -1,8 +1,7 @@
 ---
 title: Hive 抽样统计
 comments: true
-categories:
-  - common，technology
+categories: technology
 tags:
   - python
   - security

@@ -89,6 +89,10 @@ feed:
   path: atom.xml
   limit: 20
 
+#数学公式
+mathjax2: true
+
+duoshuo_shortname: muyunzhe
 
 #归档 标签 分类
 archive_generator:

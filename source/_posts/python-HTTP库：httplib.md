@@ -1,8 +1,7 @@
 ---
 title: python HTTP库：httplib
 comments: true
-categories:
-  - common，technology
+categories: technology
 tags:
   - python
   - security
