@@ -4,10 +4,10 @@
 
 # Site
 title: 牧云者
-subtitle: 牧云者,心乘大气,驾于天也！ #既然选择了远方，便只顾风雨兼程
+subtitle: 既然选择了远方，便只顾风雨兼程
 description: 在技术的道路上，越走越远。。。
 author: Muyunzhe
-language: zh-Hans #zh-CN
+language: zh-CN
 timezone:
 
 # URL
@@ -64,7 +64,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: next
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

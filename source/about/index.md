@@ -1,5 +1,6 @@
 ---
 title: about
+comments: false
 date: 2016-05-22 00:42:12
 ---
 ### 关于本站
@@ -13,5 +14,5 @@ date: 2016-05-22 00:42:12
 ### 联系方式:
 
 + 微博 : [牧云者](http://weibo.com/gudaojuechen)
-+ 邮箱 : lonelydream#163.com
++ 邮箱 : <lonelydream@163.com>
 + Github : [muyunzhe](https://github.com/muyunzhe)
