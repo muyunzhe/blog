@@ -1,9 +1,9 @@
 ---
 title: mysql数据同步
 comments: true
-categories: technology
-tags: database
-keywords: 'mysql, binlog， kafka， redis'
+categories: [cloud-computing,storage]
+tags: [storage,mysql]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-12-19 15:24:46
 ---
 阿里巴巴开发的canal，通过模拟slave向master发送请求，获取mysql改动记录，将同步消息发送给redis或者kafka，实现mysql数据同步

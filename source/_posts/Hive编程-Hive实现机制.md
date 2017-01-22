@@ -1,8 +1,9 @@
 ---
 title: Hive编程-Hive实现机制
 comments: true
-categories: technology
-tags: database
+categories: [cloud-computing,storage]
+tags: [storage,hive]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-05-24 21:02:16
 ---
 Hive是基于Hadoop的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供完整的SQL查询功能，可以将SQL语句转换为MapReduce任务运行。

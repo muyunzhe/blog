@@ -1,8 +1,9 @@
 ---
 title: spark源码编译安装与IntelliJ源码阅读环境配置
 comments: true
-categories: technology
-tags: database
+categories: [cloud-computing,architecture]
+tags: [architecture,spark]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-06-14 15:00:07
 ---
 Spark是UC Berkeley AMP lab所开源的类Hadoop MapReduce的通用的并行计算框架，Spark基于map reduce算法实现的分布式计算，拥有Hadoop MapReduce所具有的优点；但不同于MapReduce的是Job中间输出和结果可以保存在内存中，从而不再需要读写HDFS，因此Spark能更好地适用于数据挖掘与机器学习等需要迭代的map reduce的算法。

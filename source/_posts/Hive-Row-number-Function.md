@@ -1,8 +1,9 @@
 ---
 title: Hive Row_number Function
 comments: true
-categories: technology
-tags: database
+categories: [cloud-computing,storage]
+tags: [storage,hive]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-05-31 21:24:31
 ---
 Returns an ascending sequence of integers, starting with 1. Starts the sequence over for each group produced by the PARTITIONED BY clause. The output sequence includes different values for duplicate input values. Therefore, the sequence never contains any duplicates or gaps, regardless of duplicate input values.

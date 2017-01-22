@@ -1,8 +1,9 @@
 ---
 title: Hive编程-Hive库操作
 comments: true
-categories: technology
-tags: database
+categories: [cloud-computing,storage]
+tags: [storage,hive]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-05-25 22:37:54
 ---
 Hive作为数据管理工具，这通常意味着必须有组织和结构。否则，我们的数据库会成为一个永久存储无限制数据的死区，没人能够或者想要使用这些数据。当然Hive数据库跟传统数据库有很多不同的地方，下面就来说说Hive数据库到底如何来管理。

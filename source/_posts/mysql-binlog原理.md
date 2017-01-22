@@ -1,9 +1,9 @@
 ---
 title: mysql binlog原理
 comments: true
-categories: technology
-tags: database
-keywords: 'mysql, binlog'
+categories: [cloud-computing,storage]
+tags: [storage,mysql]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-12-19 15:01:55
 ---
 Mysql 的binlog，是mysql执行改动产生的二进制日志文件，记录对数据发生或潜在发生更改的SQL语句，并以二进制的形式保存在磁盘中。其主要作用有两个：* 数据恢复*和*主从数据库*。用于slave端执行增删改，保持与master同步。

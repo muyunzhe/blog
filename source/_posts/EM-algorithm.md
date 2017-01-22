@@ -1,9 +1,9 @@
 ---
 title: EM算法(最大期望算法)
 comments: true
-categories: Algorithm
-tags: Data Mining
-keywords: 'Hexo, Blog, Data Mining,EM'
+categories: [artificial-intelligence,algorithm]
+tags: [algorithm, EM]
+keywords: 'Data Mining,EM'
 date: 2016-10-09 16:04:51
 ---
 EM算法是一种迭代算法，用于含有隐含变量（hidden variable）的概率模型参数的极大似然估计，或极大后验概率估计。

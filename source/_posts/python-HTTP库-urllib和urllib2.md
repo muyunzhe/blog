@@ -1,8 +1,9 @@
 ---
 title: python HTTP库 urllib和urllib2
 comments: true
-categories: technology
-tags: python
+categories: [technology,programming]
+tags: [programming,python]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-07-29 18:28:07
 ---
 urllib和urllib2模块都做与请求URL相关的操作，但他们提供不同的功能。

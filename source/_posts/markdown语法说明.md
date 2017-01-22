@@ -1,8 +1,9 @@
 ---
 title: markdown语法说明
 comments: true
-categories: common
-tags: help
+categories: [common,others]
+tags: [others,help]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-05-28 16:44:21
 ---
 Markdown 的目标是实现「易读易写」。

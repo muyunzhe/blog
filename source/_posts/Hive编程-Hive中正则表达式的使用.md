@@ -1,8 +1,9 @@
 ---
 title: Hive编程-Hive中正则表达式的使用
 comments: true
-categories: technology
-tags: database
+categories: [cloud-computing,storage]
+tags: [storage,hive]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-05-30 18:40:00
 ---
 hive中的正则解析函数：regexp_extract的使用方法与注意事项

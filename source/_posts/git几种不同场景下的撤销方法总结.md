@@ -1,9 +1,9 @@
 ---
 title: git几种不同场景下的撤销方法总结
 comments: true
-categories: technology
-tags: git
-keywords: 'git'
+categories: [technology,tools]
+tags: [tools,git]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-12-30 18:08:49
 ---
 本文主要介绍作为普通开发人员，在不需要特别深入了解git内部原理的情况下，如何能够对常用的基本操作灵活运用，操作熟练且不坑队友。

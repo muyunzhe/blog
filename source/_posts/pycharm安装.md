@@ -2,8 +2,9 @@
 title: pycharm安装
 comments: true
 date: 2016-05-23 11:43:56
-categories: technology
-tags: database
+categories: [technology,tools]
+tags: [tools,python]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 ---
 
 PyCharm是JetBrains系列产品的一员，也是现在最好用的IDE。

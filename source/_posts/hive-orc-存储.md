@@ -1,9 +1,9 @@
 ---
 title: hive orc 存储
 comments: true
-categories: technology
-tags: database
-keywords: 'hive, database'
+categories: [cloud-computing,storage]
+tags: [storage,hive]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-12-15 15:04:07
 ---
 ORC的全称是(Optimized Record Columnar)，使用ORC文件格式可以提高hive读、写和处理数据的能力。

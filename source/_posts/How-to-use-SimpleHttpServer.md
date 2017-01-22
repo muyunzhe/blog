@@ -1,8 +1,9 @@
 ---
 title: How to use SimpleHttpServer
 comments: true
-categories: technology
-tags: python
+categories: [technology,programming]
+tags: [programming,python]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-05-24 18:26:40
 ---
 In this post we will look at the built-in web server in Python.

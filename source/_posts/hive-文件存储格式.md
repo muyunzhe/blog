@@ -1,9 +1,9 @@
 ---
 title: hive 文件存储格式
 comments: true
-categories: technology
-tags: database
-keywords: 'hive, database'
+categories: [cloud-computing,storage]
+tags: [storage,hive]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-12-15 16:39:41
 ---
 创建一个表时可以指定文件存储格式，默认格式是textfile,还有其他sequencefile，rcfile格式,总的来说就是文本、二进制、压缩三种格式

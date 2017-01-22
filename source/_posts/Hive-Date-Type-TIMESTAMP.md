@@ -1,8 +1,9 @@
 ---
 title: 'Hive Date Type:TIMESTAMP'
 comments: true
-categories: technology
-tags: database
+categories: [cloud-computing,storage]
+tags: [storage,hive]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-05-31 18:06:29
 ---
 The underlying Impala data type for date and time data is TIMESTAMP, which has both a date and a time portion.

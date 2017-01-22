@@ -1,8 +1,9 @@
 ---
 title: Hive编程-Hive表操作
 comments: true
-categories: technology
-tags: database
+categories: [cloud-computing,storage]
+tags: [storage,hive]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-05-26 22:00:31
 ---
 表操作包括表、分区、列的增删改查等基本操作以及一些特殊的高级特性。

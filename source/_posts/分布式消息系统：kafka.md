@@ -1,9 +1,9 @@
 ---
 title: 分布式消息系统：kafka
 comments: true
-categories: technology
-tags: architecture
-keywords: 'distributed, kafka'
+categories: [cloud-computing,architecture]
+tags: [architecture,kafka]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-10-11 20:49:57
 ---
 Kafka是分布式发布-订阅消息系统。

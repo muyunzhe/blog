@@ -1,8 +1,9 @@
 ---
 title: Hive编程-Hive数据存储
 comments: true
-categories: technology
-tags: database
+categories: [cloud-computing,storage]
+tags: [storage,hive]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-05-26 09:56:28
 ---
 Hive本身是没有专门的数据存储格式，也没有为数据建立索引，只需要在创建表的时候告诉Hive数据中的列分隔符和行分隔符，Hive就可以解析数据。所以往Hive表里面导入数据只是简单的将数据移动到表所在的目录中。

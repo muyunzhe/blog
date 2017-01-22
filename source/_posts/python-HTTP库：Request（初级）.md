@@ -1,8 +1,9 @@
 ---
 title: python HTTP库：Request（初级）
 comments: true
-categories: technology
-tags: python
+categories: [technology,programming]
+tags: [programming,python]
+keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
 date: 2016-07-29 19:09:07
 ---
 Requests 使用的是 urllib3，继承了urllib2的所有特性。Requests支持HTTP连接保持和连接池，支持使用cookie保持会话，支持文件上传，支持自动确定响应内容的编码，支持国际化的 URL 和 POST 数据自动编码。

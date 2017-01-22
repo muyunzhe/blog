@@ -5,8 +5,8 @@
 # Site
 title: 牧云者
 subtitle: 牧云者,心乘大气,驾于天也！ #既然选择了远方，便只顾风雨兼程
-description: 在技术的道路上，越走越远。。。
-author: Muyunzhe
+description: 专注于云计算、数据挖掘、机器学习领域的那些事,分享关于hive、spark、flink、machine learning以及互联网金融相关技术的所学所悟。
+author: muyunzhe
 language: zh-Hans #zh-CN
 timezone:
 
@@ -14,7 +14,8 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://muyunzhe.com
 root: /
-permalink: :year/:month/:day/:title/
+#permalink: :year/:month/:day/:title/
+permalink: :category/:title/
 permalink_defaults:
 
 # Directory
