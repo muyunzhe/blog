@@ -4,7 +4,7 @@ comments: true
 toc: true
 mathjax2: true
 keywords: '牧云者,人工智能,云计算,数据挖掘,hexo,blog'
-date: 2017-02-23 14:49:19
+date: 2018-01-02 14:49:19
 categories: [artificial-intelligence, deep-learning]
 tags: [deep-learning, Neural-Networks]
 ---
